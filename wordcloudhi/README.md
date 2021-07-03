@@ -3,10 +3,11 @@
 # For Hindi
 
 
-``` $pip3 install requirements.txt ```
+
 
 
 ``` $cd wordcloudhi``` <br>
+``` $pip3 install requirements.txt ``` <br>
 ``` $bash Hindi.sh```
 
 <br> The bash script will run all the codes present here in a methodical way and end after the wordCloud has been displayed.
